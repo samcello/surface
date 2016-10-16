@@ -1,0 +1,22 @@
+{
+  "name": "surface",
+  "version": "1.0.0",
+  "description": "surface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samcello/surface.git"
+  },
+  "keywords": [
+    "surface"
+  ],
+  "author": "samcello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samcello/surface/issues"
+  },
+  "homepage": "https://github.com/samcello/surface#readme"
+}
